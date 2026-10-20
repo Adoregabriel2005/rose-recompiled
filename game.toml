@@ -1,0 +1,4 @@
+[game]
+name = "Rose Recompiled"
+output_prefix = "rose"
+cycle_accurate = true

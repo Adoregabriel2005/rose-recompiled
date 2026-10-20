@@ -1,0 +1,13 @@
+# Deterministic smoke route, not a complete playthrough.
+600 START
+602 -
+720 START
+722 -
+900 A
+902 -
+1100 RIGHT
+1200 UP
+1202 -
+1400 RIGHT+A
+1420 RIGHT
+1500 -

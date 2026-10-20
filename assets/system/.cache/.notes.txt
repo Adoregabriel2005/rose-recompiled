@@ -1,0 +1,8 @@
+Se voce encontrou esta pasta, parabens pela curiosidade!
+
+Dicas para Rose Recompiled:
+- Experimente copiar habilidades diferentes quando um caminho parecer inacessivel.
+- Explore novamente as fases procurando passagens e interruptores escondidos.
+- Observe os padroes dos chefes antes de atacar.
+
+Esta nota nao aplica patches nem modifica seu save.

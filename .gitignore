@@ -1,0 +1,9 @@
+external/
+build*/
+private/
+generated/
+__pycache__/
+*.nes
+*.zip
+*.sav
+*.state
